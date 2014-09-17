@@ -28,7 +28,8 @@ body {
 /* Style for the div containing the grid */
 #rf-searchgamecontainer {
     float: left;
-    padding-right: 50px; 
+    padding-right: 50px;
+    background-color: transparent;
 }
 
 /* Style for the div containing the word list */
@@ -64,7 +65,7 @@ body {
 }
 
 #rf-tablegrid .rf-highlight {
-    background: red;
+  background: red;
 }
 
 
